@@ -1,0 +1,90 @@
+.menu{
+    padding: 20px 0px;
+}
+.menu a{
+    text-decoration: none;
+    color: #000;
+    padding: 0px 25px;
+}
+.banner{
+    background-image: url(images/banner.png);
+    text-align: center;
+}
+.banner h1{
+    padding: 100px 0px;
+    font-size: 100px;
+}
+h2{
+    color: red;
+    padding-top: 40px;
+}
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: small;
+    padding: 6px 15px;
+    margin-top: 20px;
+}
+ button:hover{
+    color: red;
+    background-color: white;
+    border-style: solid;
+    border-color: red;
+    border-width:1px ;
+ }
+.contact-area input{
+    width: 520px;
+    height: 50px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.contact-area textarea{
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 5px;
+    width: 520px;
+}
+.img-1{
+    padding-top: 40px;
+}
+.icons{
+    margin-top: 40px;
+}
+.map-area{
+    background-image: url(images/map.png);
+    height: 341px;
+    margin-top: 80px;
+}
+.footer{
+    background-color: rgb(1, 1, 1);
+    padding: 40px 0px;
+  }
+  .footer a{
+    text-decoration: none;
+    color: white;
+  }
+  .footer{
+    color: white;
+    max-height: 360px;
+  }
+  .footer img{
+    padding-bottom: 20px;
+  }
+  .container{
+    padding-bottom: 20px;
+  }
+  .border-bottom{
+    /* border-bottom: 10px; */
+    border-bottom-style: solid;
+    border-bottom-width: 20px;
+    padding-bottom: 60px
+  }
+  .footer-end{
+    text-align: center;
+    color: white;
+  }

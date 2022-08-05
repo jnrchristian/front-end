@@ -1,0 +1,212 @@
+body {}
+
+h2,
+h4 {
+    color: #BB0505;
+}
+#newsletter h2{
+    color: #fff;
+}
+input{
+    width: 300px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+    border: none;
+    font-size: 14px;
+    padding-left: 10px;
+}
+h5{
+    margin-top: 10px;
+}
+
+.menu {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.menu a {
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu img {
+    margin-right: 100px;
+}
+
+button {
+    background-color: #BB0505;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+    border: none;
+}
+
+button:hover {
+    background-color: white;
+    color: #BB0505;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #BB0505;
+}
+
+.banner-text {
+    margin-left: 100px;
+    color: white;
+    padding-top: 170px;
+    padding-bottom: 170px;
+}
+
+.banner {
+    background-image: url(images/banner.png);
+    margin-bottom: 80px;
+}
+
+#h-about {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+}
+
+#h-about img {
+    float: left;
+    margin-right: 80px;
+    margin-bottom: 80px;
+}
+
+#h-services {
+    margin-bottom: 120px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#h-services h2 {
+    text-align: center;
+}
+
+#h-services-area {
+    margin-top: 40px;
+}
+
+#h-services-img {
+    float: left;
+    margin-left: 30px;
+}
+
+.decades {
+    background-image: url(images/bg-img.png);
+    margin-top: 500px;
+    margin-bottom: 80px;
+}
+
+.decade-txt {
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+#h-project {
+    margin-bottom: 120px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 80px;
+}
+
+#h-project h2 {
+    text-align: center;
+}
+
+#h-project-img {
+    float: left;
+    margin-left: 100px;
+}
+.testimonials{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 500px;
+    margin-bottom: 80px;
+}
+.testimonials h2{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.testimonials img{
+    float: left;
+    margin-left: 10px;
+    margin-right: 80px;
+    margin-top: 3px;
+}
+.test{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.test-img{
+    margin-right: 130px;
+}
+#h-news {
+    margin-bottom: 120px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#h-news h2 {
+    text-align: center;
+}
+
+#h-news-area {
+    margin-top: 40px;
+}
+
+#h-news-img {
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+
+#newsletter{
+    background-color: #333333;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 400px;
+    margin-top: 450px;
+}
+#newletter h2{
+    color: #fff !important;
+    text-align: center;
+}
+#email-field{
+    text-align: center;
+}
+.footer{
+    background-color: #000;
+    color: #fff;
+    margin-top: -400px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.ft-lft{
+    max-width: 350px;
+    float: left;
+    margin-right: 80px;
+}
+.footer-inner{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.footer-border{
+    padding-bottom: 60px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #fff;
+}
+.mid-footer{
+    margin-left: 40px;
+    float: left;
+    margin-right: 80px;
+}

@@ -1,0 +1,31 @@
+body{
+    
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+.header a{
+    margin-right: 40px;
+}
+.header h2{
+    background-image: url(images/banner2.png);
+    padding: 150px 0px;
+    color: #fff;
+    text-align: center;
+}
+.menu{
+    margin: 20px 0px;
+}
+.purpose{
+    margin-top: 80px;
+}
+.purpose-r{
+    padding-top: 40px;
+}
+.services{
+    margin-top: 80px;
+}
+.services h4{
+    color: #BB0505;
+}
